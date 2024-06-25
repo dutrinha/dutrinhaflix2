@@ -34,8 +34,9 @@ function Home() {
                 )
             }
         </div>
-        <div className="bg-cor1 h-96">
-            <img src="logo.png" alt="" />
+        <div className="bg-cor1 flex-col text-center">
+            <h1 className="text-5xl font-semibold text-white">DUTRINHAFLIX</h1>
+            <p className="text-xs text-white">2024, Todos os direitos reservador</p>
         </div>
         </>
     );
